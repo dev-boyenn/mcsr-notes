@@ -65,7 +65,7 @@
 	* Leave crable unless just waiting
 * 2D portal:
 	* toss fire charges
-	* ( to check results ): toss shovel ( might be annoying cause its where bed goes later ? not sure)
+	* ( to check results ): toss shovel ( might be annoying cause its where bed goes later ? not sure )
 * PR death reset:
 	* Use offhand bed
 	* Toss shovel after mining bed
