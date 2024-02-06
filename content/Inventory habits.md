@@ -37,8 +37,8 @@
 
 * During pearls:
 	* Delete:
-		* Extra soulsand ( keep 1 extra stack ? )
-		* Extra gravel ( keep 0 extra stacks ? )
+		* Extra soulsand 
+		* Extra gravel
 		* Blackstones
 		* fire res if >3 ( 2 + 1 active )
 		* General Junk
@@ -57,7 +57,7 @@
 	* Light portal
 	* Boat eye overlap
 	* Pickblock obby back over boat
-	*  `AXE|PICK|SHOVEL|SOLID|OBBY/TNT|CHARGES|GRAVEL|PEARLS|EYES`
+	*  `AXE|PICK|SHOVEL|SOLID|OBBY|CHARGES|GRAVEL|PEARLS|EYES`
 * Before Postblind ( spawner downtime or in ow2 )
 	* Zero prep
 	* Craft gold pick if possible
