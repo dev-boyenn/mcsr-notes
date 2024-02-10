@@ -4,3 +4,4 @@
 * [[Inventory habits]] => really force minimal inventory interactions
 * Clearing mid pearl
 * Pausing until about 8k C even when insta spike
+* pos z anchors on nether DR

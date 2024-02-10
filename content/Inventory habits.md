@@ -58,6 +58,8 @@
 	* Boat eye overlap
 	* Pickblock obby back over boat
 	*  `AXE|PICK|SHOVEL|SOLID|OBBY|CHARGES|GRAVEL|PEARLS|EYES`
+* During ow2: 
+	  If death reset, move bed to 5
 * Before Postblind ( spawner downtime or in ow2 )
 	* Zero prep
 	* Craft gold pick if possible
