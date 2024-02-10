@@ -1,4 +1,8 @@
 * Under lava portals
 * Fast boat sprint dig timings and minimal blocks
-* automatt halfbow with crossbow and bow, including the actual onecycle ( just do no force in endgame practice )
-* 
+* Halfbow => https://www.twitch.tv/videos/2057558432?t=00h57m49s
+* Fastbow [[End stuff#Fastbow]]
+* back 97 extensions
+* crossbow double bed
+* bed doubleclick on low dragon
+* pivot route https://www.youtube.com/watch?v=DbNL3dwdf8s&t=0s
