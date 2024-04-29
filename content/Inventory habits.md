@@ -7,7 +7,8 @@
 * Pre-route Chests:
 	* Loot Gilded if no/low distraction gold
 	* Offhand armor
-
+	* Gold pick replace shovel, keep boat on bar until hotslot
+	* 
 * Right after throwing last gold:
 	* Keep:
 		* As little as possible
@@ -62,9 +63,11 @@
 	  If death reset, move bed to 5
 * Before Postblind ( spawner downtime or in ow2 )
 	* Zero prep
-	* Craft gold pick if possible
+	* Craft gold pick if possible, move to slot 3
 	* Craft bow if no crossbow
 	* Leave crable unless just waiting
+	* spawner downtime: replace eyes with rods
+	* 
 * 2D portal:
 	* toss fire charges
 	* ( to check results ): toss shovel ( might be annoying cause its where bed goes later ? not sure )

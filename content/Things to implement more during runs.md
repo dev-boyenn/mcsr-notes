@@ -5,3 +5,4 @@
 * Clearing mid pearl
 * Pausing until about 8k C even when insta spike
 * pos z anchors on nether DR
+* [ocean floor dr](https://www.youtube.com/watch?v=Hw1wTp3RmBY)
