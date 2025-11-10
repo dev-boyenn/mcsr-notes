@@ -10,6 +10,7 @@ This is a collection of notes, strategies, and resources for Minecraft Speedrunn
 ## Quick Links
 
 - [[Inventory habits]]
+- [[Practice|Practice]]
 
 ## Categories
 
