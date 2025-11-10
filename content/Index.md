@@ -1,1 +1,2 @@
 [[Inventory habits]]
+test
