@@ -1,14 +1,13 @@
+
+OUT OF DATE NEEDS AN UPDATE
 # Bastion
 * Before Bastion:
-	* Replace fns(throw? chalice...) with distraction gold
-	* Keep atleast 1 gravel in slot during terrain
-	* `AXE|PICK|SHOVEL|SOLID|BUCKET|BOAT|GRAVEL|CRABLE|GOLD`
+	* Gold to v
+	* `AXE|PICK|SHOVEL|SOLID|BUCKET|BOAT|GRAVEL|GOLD|FNS`
 	
 * Pre-route Chests:
 	* Loot Gilded if no/low distraction gold
 	* Offhand armor
-	* Gold pick replace shovel, keep boat on bar until hotslot
-	* 
 * Right after throwing last gold:
 	* Keep:
 		* As little as possible
@@ -18,7 +17,6 @@
 		* solid blocks except one big stack
 		* all blackstone variants
 	* Move:
-		* Boat to hotslot
 		* TNT next to hotslot
 	* Pickup first trades, **dont check them**, throw gold back if needed
 	* Stables gap: cross chunks for piedar
