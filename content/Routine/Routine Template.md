@@ -5,9 +5,11 @@
 - [ ] 5 cons sub 4 blaze practice portal
 - [ ] Sub 12 crafting + blaze practice
 - [ ] Sub 1 blaze split
-- [ ] 5x own Island practice map
-- [ ] 5x zero
+- [ ] 3x cons zero
 - [ ] 5x stronghold to finish
 - [ ] 1x sub 5 fort to finish
+- [ ] sub 23 crp
+- [ ] 1x zsg sub 9
+
 
 
